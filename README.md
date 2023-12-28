@@ -1,2 +1,2 @@
 # youtube-clone
-A youtube video processing clone using MERN stack.
+A youtube video processing clone using MERN.
